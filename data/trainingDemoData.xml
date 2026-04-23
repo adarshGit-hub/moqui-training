@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="seed">
+    <moqui.MoquiTraining trainingName="throughCode" trainingDate="2026-04-10" trainingPrice="349" trainingDuration="23" />
+</entity-facade-xml>
